@@ -24,11 +24,12 @@ class IndexPage extends React.Component {
         </h1>
         <p>Tobias services provide consulting work around open source</p>
         <p>
-          Beliving Open Source need more and more marketing technique to attract the best people.
+          Believing Open Source project need more and more marketing technique to attract the best people.
           As more and more companies will move "full" remote.
           We provide few services around Remote policies, remote setup, Open Source doc policies.
+          Being anywhere in the world allow to work on any open sources in the world in a very specific way.
         </p>
-        <p>Now go build something great!</p>
+        <p>Let's follow role model on the different sharing platform</p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>
         </Link>

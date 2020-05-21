@@ -1,5 +1,5 @@
 backend:
-  name: tobias
+  name: github
   repo: kevincouton/tobias-blog
 
 media_folder: static/assets

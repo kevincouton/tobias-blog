@@ -17,15 +17,16 @@ class IndexPage extends React.Component {
         />
         <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
         <h1>
-          Hey people{" "}
+          Welcome to Tobias services{" "}
           <span role="img" aria-label="wave emoji">
             👋
           </span>
         </h1>
-        <p>Welcome to your new Gatsby website. You are on your home page.</p>
+        <p>Tobias services provide consulting work around open source</p>
         <p>
-          This starter comes out of the box with styled components and Gatsby's
-          default starter blog running on Netlify CMS.
+          Beliving Open Source need more and more marketing technique to attract the best people.
+          As more and more companies will move "full" remote.
+          We provide few services around Remote policies, remote setup, Open Source doc policies.
         </p>
         <p>Now go build something great!</p>
         <Link to="/blog/">
